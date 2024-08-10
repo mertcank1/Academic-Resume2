@@ -1,12 +1,5 @@
 # Academic-Resume2
 
-## Contact me!
-
-[<img src=https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg />](https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/)
-
-
-
-
 <img src=https://raw.githubusercontent.com/mertcank1/Academic-Resume2/main/anim2.gif alt="drawing" width="200"/>
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
@@ -99,3 +92,9 @@ Akbaş, M.,**Köse, A.M.** (2024). Investigation of the Factors Quiet Quitting a
 VISAVET Health Surveillance Center, Universidad Complutense,Madrid, Spain \hfill 2023
 
 ```
+
+## Contact me!
+
+[<img src=https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg />](https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/)
+
+[<img src=https://globe.gl/example/world-population/>](https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/)
