@@ -7,7 +7,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/mertcank1/Academic-Resume2/main/anim2.gif alt="drawing" width="200"/>
+<img src=https://raw.githubusercontent.com/mertcank1/Academic-Resume2/main/anim2.gif alt="drawing" width="200"/>
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
