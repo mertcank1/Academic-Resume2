@@ -1,5 +1,9 @@
 # Academic-Resume2
 
+## Contact me!
+
+<i class="fa-brands fa-linkedin"></i>
+
 <img src=https://raw.githubusercontent.com/mertcank1/Academic-Resume2/main/anim2.gif alt="drawing" width="200"/>
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
@@ -8,6 +12,7 @@ You can reach the academic resume draft in this repo.
 Enjoy it! 
 
 <img src="https://github.com/mertcank1/Academic-Resume2/blob/main/Ali_bowling.gif?raw=true" alt="drawing" width="200"/>
+
 
 ## Installation
 ```r
@@ -75,7 +80,7 @@ Akbaş, M.,**Köse, A.M.** (2024). Investigation of the Factors Quiet Quitting a
 
 # Projects
 
-*HARMONY-Cost Action- CA18208 – STSM project* -Depression prevalence estimation using an imperfect diagnostic depression screening tool in NHANES ( The National Health andNutrition Examination Survey). Charite University, Berlin, Germany. Supervisor: Dr. Felix Fischer \hfill 2021  
+*HARMONY-Cost Action- CA18208 – STSM project* -Depression prevalence estimation using an imperfect diagnostic depression screening tool in NHANES ( The National Health and Nutrition Examination Survey). Charite University, Berlin, Germany. Supervisor: Dr. Felix Fischer \hfill 2021  
 
 # Instructor
 
