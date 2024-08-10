@@ -4,7 +4,7 @@
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
-you can reach academic resume draft in this repo. 
+You can reach the academic resume draft in this repo. 
 Enjoy it! 
 
 <img src="https://github.com/mertcank1/Academic-Resume2/blob/main/Ali_bowling.gif?raw=true" alt="drawing" width="200"/>
