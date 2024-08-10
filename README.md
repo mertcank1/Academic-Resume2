@@ -3,4 +3,4 @@
 ```{r setup, include=FALSE}
 install.packages("stevetemplates")
 library(stevetemplates)
-```{r setup, include=FALSE}
+```
