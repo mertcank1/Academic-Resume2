@@ -2,7 +2,7 @@
 
 ## Contact me!
 
-![[https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/]<img src=https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg />
+<img src=https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg /> [Ali Mertcan Köse] ([https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/])
 
 
 
