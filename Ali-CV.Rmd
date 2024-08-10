@@ -1,0 +1,141 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Ali Mertcan Köse
+
+jobtitle: "Lecturer, Department of Computer Programming"
+address: "Istanbul Ticaret University · Kucukyali,Maltepe · Istanbul PO Box 34840, TR"
+fontawesome: yes
+email: alimertcankose@gmail.com
+github: mertcank1
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+#phone: "+353 1 408 4800"
+web: alimertcankose.netlify.app
+updated: TRUE
+rdateformat: "`r Sys.Date()`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Employment
+
+*Istanbul Ticaret University*
+
+Lecturer (ıstanbul) \hfill 2022-
+
+*Halic University*
+
+Lecturer (Istanbul) \hfill 2021-2022
+
+*Istanbul Kent University*
+
+Lecturer (Istanbul) \hfill 2020-2021
+
+# Education
+
+*Mimar Sinan Fine Arts University*, Ph.D. Statistics (Thesis Defense in December) \hfill 2024 
+
+*Roma Sapienza University*, Ph.D. Statistics (Visiting Ph.D Student) \hfill 2023 
+
+*Mimar Sinan Fine Arts University*, M.Sc. Statistics \hfill 2018
+
+*Anadolu University*, B.Sc. Economics (Open Training Faculty) \hfill 2015
+
+*Eskisehir Osman Gazi University*, B.Sc. Statistics \hfill 2013
+
+
+# Publications
+
+
+## Journal Articles
+
+**Köse, A. M.**, Kocadagli, O., Taştan, C., Aktan, C., Ünaldı, O. M., Güzenge,E.,Erdil, H. E.. (2024). Unveiling off-target mutations in CRISPR guideRNAs:Implications for gene region specificity, *The CRISPR Journal*, June;7(3):168-178.
+
+Ünal Çoker, E. & **Köse, A.M.** (2023). Inspecting Smoking Addiction of Youth in Türkiye: A Latent Class Analysis Using the Turkish Version of the Cigarette Dependence Scale, *Journal of International Healthcare Management*, December, 1-10. 
+
+Dagistanli, S., Sonmez, S., Bulut, N.,  **Köse, A.M.** (2023), Evaluation of Treatment Responses Among Subgroups of Breast Cancer Patients Receiving Neoadjuvant Chemothreapy, *Journal of Cancer Research and Therapeutics*, 19 (Suppl 2).
+
+İnan-Budak, M, Zonp,Z., **Köse, A.M**, Saint-Arnault, D. (2023).  Psychometric Evaluation of The Social Support Questionnaire for Transactions in Turkish Gender-Based Violence Sample, *Archives of Psychiatric Nursing*, 45, 184-191. 
+
+Kocadağlı, O.,  **Köse, A.M**, Gökmen, N., Özer, E., Yaman Kocadağlı, A., Bostancı, E. (2021).  Important Factors Affecting the Transmission Rate of COVID-19 in G20 and EU, *Sigma Journal of Engineering and Natural Sciences*, 39 (5), 209-219. 
+
+
+Özaltındiş, T., **Köse, A.M**, Özdamar, E.(2021). ANOM Test as an Alternative Approach to Group Comparisons. *Süleyman Demirel University Journal of Natural and Applied Sciences*, 25(1), 80-98.(*In Turkish*) 
+
+Yay, M., Afacan Fındıklı, M., **Köse, A. M.** (2020). Serial Mediation Model of Leader Member Interaction inWork Values And Job Satisfaction, *Istanbul Commerce University Journal of Social Science*,19(37), 1-26.(*In Turkish*) 
+
+**Köse A.M.**, Sunata, U., Deniz, E. (2018). Relationship of Social Orientation and Empathy with Perception of Syrian Refugees as Threat: Structural Equation Modelling with The Examples of Çankaya andAltindağ, *Journal of Social Studies Politics*, 18(40/2), 283-314.(*In Turkish*) 
+
+
+# Oral Presentation
+
+Akbaş, M.,**Köse, A.M.** (2024). Investigation of the Factors Quiet Quitting and Quiet Firing With The Structural Equation Modelling: A Pilot Research On Health Professional’s. 10th International Conference on Advances in Statistics (ICAS), 19-21 April 2024, Budapest/Hungary,  Abstract’s Paper (*In English*)
+
+**Köse, A.M.** (2024). CRISPR: Prediction of Off-Target Levels by Using Latent Class Analysis and Bayesian Latent Class Analysis. HARMONY Society for Bayesian Methods in Epidemiology and Diagnostics, 29-02 February 2024, Brussels/Belgium, Poster Presentation (*In English*)
+
+Yay, M., Fındıklı, A.M., **Köse, A.M.** (2019). Serial Mediation Model of Leader Member Interaction in Work Values And Job Satisfaction. y-BIS 2019 Young Business and Industrial Statisticians Workshop on Recent Advances in Data Science and Business Analytics, 25-28 September 2019, Istanbul/Turkey,  Abstract’s Paper (*In English*)
+
+**Köse, A.M.** & Çoker, E.(2019). Inspecting Smoking Addiction of Youth in Turkey through Latent Class Analysis. 16th Conference of the International Federation of Classification Societies 26-29 August 2019, Thessaloniki/Greece, Abstract’s Paper (*In English*)
+
+**Köse A.M.**, Howe, E.D., Structural Equation Modelling About The Perception of Citizens Living in Çankaya District of Ankara Province towards the Syrian Immigrants, 10. International Statistics Congress, 06-08 December 2017, Ankara/Turkey,  Abstract’s paper(*In English*)
+
+**Köse A.M.**, Afacan, C.,  Özaltındiş, T., Özdamar, E.Ö., ANOM Test as an Alternative Approach to Group Comparisons, XVIII. International Econometrics, Operation Research and Statistics Symposium,5-7 October 2017,  Trabzon/Turkey, Abstract’s Paper (*In Turkish*)
+
+Afacan, C., **Köse A.M.**, Özaltındiş, T., Özdamar, E.Ö., Inspecting of Undergraduate Students of MSFAU relationships with Carrier Plan and Future Orientation towards Statistics Attitude, XVIII. International Econometrics, Operation Research and Statistics Symposium, 5-7 October 2017, Trabzon/Turkey, Abstract’s Paper (*In Turkish*)
+
+**Köse, A.** , Çakmak Pehlivanlı, A. (2016). Implementation of data mining technics considering number of refugees. XVII. International Econometrics, Operation Research and Statistics Symposium, 2-4 June 2016, Sivas/Turkey  Abstract’s Paper (*In Turkish*)
+
+# Awards
+
+
+*Sapienza University-Department of Statistics (Ph.D. Program), Rome, Italy* -Erasmus Exchange Student Grants \hfill 2023
+
+*16th Conference of the International Federation of Classification Societies* -16th Conference of the International Federation of Classification Societies-Student/ Postdoctoral Fellow Paper Competition and Travel Award. \hfill 2019
+
+# Projects
+
+*HARMONY-Cost Action- CA18208 – STSM project* -Depression prevalence estimation using an imperfect diagnostic depression screening tool in NHANES ( The National Health andNutrition Examination Survey). Charite University, Berlin, Germany. Supervisor: Dr. Felix Fischer \hfill 2021  
+
+# Instructor
+
+*Turkish Ophthalmological Association*- SPSS Training School \hfill 2021
+
+
+# Workshop
+
+*HARMONY Advances Training School on Bayesian Methods“Going Beyond Test Evaluation and Prevalence Estimation”*
+
+**Instructors:** Dr. Matthew Denwood, Eleftherios Meletis, Dr. Giles Innocent.
+
+VISAVET Health Surveillance Center, Universidad Complutense,Madrid, Spain \hfill 2023
+
+
+*HARMONY Training Workshop on Bayesian Latent Class models for diagnostic test evaluation and true prevalence estimation*
+
+**Instructors:** Dr. Polychronis Kostoulas, Dr. Constantinos Tsiamis,Dr. Konstantinos Pateras, Eleftherios Meletis
+
+Thessaly University, Larissa, Greece\hfill 2021
+
+
+*HARMONY Training Workshop on Application of Bayesian latent class models to multi- test, multi-population datasets with a focus on medical and veterinary applications*
+
+**Instructor:** Dr. Matt Denwood (Online)
+
+University of Copenhagen, Copenhagen, Denmark\hfill 2021
+
+
+*Symbolic Data Analysis: Parametric Multivariate Analysis of Interval Data*
+
+**Instructors:** Dr.Paula Brito and Dr.Pedro Duarte Silva
+
+University of Macedonia, Thessaloniki, Greece\hfill 2019
+
