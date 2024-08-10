@@ -2,7 +2,7 @@
 
 ## Contact me!
 
-<img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg" width="200"/>
+
 
 
 
