@@ -95,8 +95,9 @@ VISAVET Health Surveillance Center, Universidad Complutense,Madrid, Spain \hfill
 
 ## Contact me!
 
-[<img src=https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg />](https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/)
+-Linkedin 
+[<img src=https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/linkedin/linkedin.svg alt="drawing" width="100" />](https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/)
 
-
+-Website
 
 [<img src=https://www.svgrepo.com/show/46221/globe.svg alt="drawing" width="100"/>](http://alimertcankose.netlify.app/)
