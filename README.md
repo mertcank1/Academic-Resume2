@@ -99,4 +99,4 @@ VISAVET Health Surveillance Center, Universidad Complutense,Madrid, Spain \hfill
 
 
 
-[<img src=https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3pM2nrr8jlns3oF52BVUCg.gif alt="drawing" width="100"/>](http://alimertcankose.netlify.app/)
+[<img src=https://www.svgrepo.com/show/46221/globe.svg alt="drawing" width="100"/>](http://alimertcankose.netlify.app/)
