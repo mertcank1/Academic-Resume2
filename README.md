@@ -1,5 +1,6 @@
 # Academic-Resume2
 
-`install.packages("stevetemplates")
+```{r setup, include=FALSE}
+install.packages("stevetemplates")
 library(stevetemplates)
-`
+```{r setup, include=FALSE}
